@@ -4,7 +4,6 @@ A linked list is a common data structure made of one or more than one nodes. Eac
 ## Installation
 ```
 go get github.com/muhammetcagatay/go-linked-list
-go mod tidy
 ```
 
 ## Using
